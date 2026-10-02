@@ -9,4 +9,4 @@ Legal documents for the iVentPad mobile application.
 
 ## Contact
 
-For privacy or legal inquiries: katedodvick@gmail.com
+For privacy or legal inquiries: iventpad@gmail.com
