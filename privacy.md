@@ -1,13 +1,13 @@
 # Privacy Policy
 
-**Last updated: 29/09/2026**
+**Last updated: 02/10/2026**
 
 ## 1. Who We Are
 
 iVentPad ("we", "us", "our") is a social event planning application that helps users discover events, connect with friends, co-plan gatherings, and communicate in real time. We are based in Kampala, Uganda, and operate globally.
 
 **Data Controller:** iVentPad
-**Contact:** katedodvick@gnail.com
+**Contact:** iventpad@gmail.com
 **Website:** https://github.com/Kate-Dodvick/iventpad-legal
 
 ## 2. Summary of What We Do
@@ -148,7 +148,7 @@ We may update this policy. When we do, we will notify you in the app and update 
 
 For any privacy-related questions, requests, or complaints:
 
-**Email:** katedodvick@gmail.com
+**Email:** iventpad@gmail.com
 **Postal address:** Kampala, Uganda
 
 We aim to respond within 7 days.
