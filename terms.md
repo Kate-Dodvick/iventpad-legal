@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated: 28/09/2026**
+**Last updated: 02/10/2026**
 
 ## 1. Acceptance
 
@@ -56,4 +56,4 @@ We may update these Terms. We will notify you in-app. Continued use means you ac
 
 ## 9. Contact
 
-katedodvick@gmail.com
+iventpad@gmail.com
