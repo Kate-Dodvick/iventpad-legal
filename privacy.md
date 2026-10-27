@@ -1,10 +1,11 @@
 # Privacy Policy
 
 **Last updated: 02/10/2026**
+**Last updated: 27/10/2026**
 
 ## 1. Who We Are
 
-iVentPad ("we", "us", "our") is a social event planning application that helps users discover events, connect with friends, co-plan gatherings, and communicate in real time. We are based in Kampala, Uganda, and operate globally.
+iVentPad ("we", "us", "our") is a social event planning application (app) that helps users discover events, connect with friends, co-plan gatherings, and communicate in real time. We are based in Kampala, Uganda, and operate globally.
 
 **Data Controller:** iVentPad
 **Contact:** iventpad@gmail.com
@@ -29,14 +30,13 @@ We collect only the information needed to run the app. We do not sell your data.
 | Event content | When you create events | Title, venue, date, description, cover photo, price, categories |
 | Chat messages | When you send messages | Delivered to the intended recipients |
 | Feedback | Optional | To improve the service |
+| Reports | Optional | To moderate |
 
 ### 3.2 Information Collected Automatically
 
 | Data | When | Why |
 |---|---|---|
-| Last seen timestamp | When you use the app | To show others when you were last active |
 | Read receipts | When you open a chat | To show delivery/read status |
-| Approximate location | Only when you explicitly request nearby places | To show relevant places and events |
 | Device type & OS version | Automatically | For compatibility and bug fixes |
 | App version | Automatically | To know which build you're running |
 | Error logs | Automatically | To detect and fix crashes |
@@ -79,6 +79,8 @@ We share data only in these cases:
 | Google Play | App usage metadata | Distribution of the app |
 | Law enforcement | Only when legally required | Compliance with valid legal requests |
 
+**Business Transfers:** If we are involved in a merger, acquisition, or asset sale, your information may be transferred. We will provide notice before your personal information is transferred and becomes subject to a different Privacy Policy.
+
 We do not use any third-party advertising, analytics, or tracking SDKs.
 
 ## 6. Where Your Data Is Stored
@@ -98,15 +100,16 @@ Your data is stored on Supabase servers. Supabase uses industry-standard securit
 
 When you delete your account, all associated data is permanently deleted within 30 days.
 
-## 8. Your Rights
+## 8. Your Privacy Rights
 
 You have the right to:
-
+Depending on your location (e.g., under GDPR or CCPA), you may have the following rights:
 - **Access** your data — contact us to receive a copy
 - **Correct** your data — edit your profile in the app at any time
 - **Delete** your data — see Section 9 below
 - **Withdraw consent** — stop using the app at any time
 - **Complain** — contact your local data protection authority
+To exercise these rights outside of the in-app settings, please contact us at iventpad@gmail.com.
 
 ## 9. Account Deletion
 
@@ -115,36 +118,43 @@ You may delete your account at any time using either method:
 ### In the app:
 1. Open the app and sign in
 2. Go to your Profile
-3. Tap "Delete Account"
-4. Confirm deletion
+3. Tap the settings icon
+4. Tap "Delete Account"
+5. Confirm deletion
 
 ### On the web:
 Visit **[your-deletion-page-url]** and submit a deletion request. We will process it within 30 days.
 
 When your account is deleted:
 - Your profile, events, messages, and personal data are permanently removed
-- Your interactions with other users may remain visible to those users in anonymised form (e.g., "a deleted user")
+- Your interactions with other users may remain visible to those users in anonymised form (e.g., "a deleted user").
+- Moderation Records: Note that anonymized records of moderation actions (e.g., the fact that an event was rejected or a user was banned) may be retained for legal compliance and community safety audits, as outlined by app store policies.
+- Caches: Data may persist temporarily in backup storage for a short period before being permanently overwritten.
 - You will not be able to recover your account
 
 ## 10. Children's Privacy
 
-iVentPad is not intended for users under 18. We do not knowingly collect data from children. If you believe a child has provided us with personal information, contact us and we will delete it.
+iVentPad is not intended for users under 13. We do not knowingly collect data from children. If we discover that a child has provided us with personal information, we will delete it. If you are a parent or guardian and believe your child has provided us with personal information, please contact us and we will delete it.
 
 ## 11. Security
 
-We use industry-standard security measures:
-- All data is encrypted in transit (HTTPS/TLS)
+We use administrative, technical, and physical security measures to protect your personal information. We use industry-standard security measures:
+- All data is encrypted in transit (HTTPS/TLS) using Secure Socket Layer (SSL) technology.
 - Passwords are hashed and salted by Supabase Auth
-- Access is restricted by row-level security policies
+- Access is restricted by Row Level Security (RLS) policies within our database, to ensure that users can only access data they are authorized to see.
 - Only authorised personnel (currently: the founder) can access the database
 
-No system is 100% secure. If you discover a vulnerability, please report it to katedodvick@gmail.com.
+No method of transmission over the internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+If you discover a vulnerability, please report it to iventpad@gmail.com.
 
-## 12. Changes to This Policy
+## 12. Third-Party Links and Services
+The app may contain links to third-party websites or services that are not owned or controlled by us (e.g., external event links or links in event details). We have no control over and assume no responsibility for the content or privacy practices of any third-party sites.
 
-We may update this policy. When we do, we will notify you in the app and update the "Last updated" date above. Continued use of the app after changes means you accept the new policy.
+## 13. Changes to This Policy
 
-## 13. Contact Us
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes. Continued use of the app after changes means you accept the new policy.
+
+## 14. Contact Us
 
 For any privacy-related questions, requests, or complaints:
 
@@ -153,6 +163,6 @@ For any privacy-related questions, requests, or complaints:
 
 We aim to respond within 7 days.
 
-## 14. Jurisdiction
+## 15. Jurisdiction
 
 This policy is governed by the laws of the Republic of Uganda, without regard to conflict-of-law principles. Any disputes will be resolved in the courts of Uganda.
