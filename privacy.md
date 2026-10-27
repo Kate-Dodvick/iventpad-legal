@@ -8,7 +8,9 @@
 iVentPad ("we", "us", "our") is a social event planning application (app) that helps users discover events, connect with friends, co-plan gatherings, and communicate in real time. We are based in Kampala, Uganda, and operate globally.
 
 **Data Controller:** iVentPad
+
 **Contact:** iventpad@gmail.com
+
 **Website:** https://github.com/Kate-Dodvick/iventpad-legal
 
 ## 2. Summary of What We Do
