@@ -109,6 +109,7 @@ Depending on your location (e.g., under GDPR or CCPA), you may have the followin
 - **Delete** your data — see Section 9 below
 - **Withdraw consent** — stop using the app at any time
 - **Complain** — contact your local data protection authority
+
 To exercise these rights outside of the in-app settings, please contact us at iventpad@gmail.com.
 
 ## 9. Account Deletion
@@ -128,8 +129,8 @@ Visit **[your-deletion-page-url]** and submit a deletion request. We will proces
 When your account is deleted:
 - Your profile, events, messages, and personal data are permanently removed
 - Your interactions with other users may remain visible to those users in anonymised form (e.g., "a deleted user").
-- Moderation Records: Note that anonymized records of moderation actions (e.g., the fact that an event was rejected or a user was banned) may be retained for legal compliance and community safety audits, as outlined by app store policies.
-- Caches: Data may persist temporarily in backup storage for a short period before being permanently overwritten.
+- Note that anonymized records of moderation actions (e.g., the fact that an event was rejected or a user was banned) may be retained for legal compliance and community safety audits, as outlined by app store policies.
+- Data may persist temporarily in backup storage for a short period before being permanently overwritten.
 - You will not be able to recover your account
 
 ## 10. Children's Privacy
