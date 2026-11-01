@@ -1,7 +1,8 @@
 # Privacy Policy
 
-**Effective date: 02/10/2026**
-**Last updated: 27/10/2026**
+**Effective date: 01/11/2026**
+
+**Last updated: 01/11/2026**
 
 ## 1. Who We Are
 
@@ -43,7 +44,7 @@ We collect only the information needed to run the app. We do not sell your data.
 | App version | Automatically | To know which build you're running |
 | Error logs | Automatically | To detect and fix crashes |
 
-**We do NOT collect:** your exact GPS coordinates continuously, your contact list, your photos outside of what you upload, your phone number, your payment information (we do not process payments at this time), your browsing history in other apps.
+**We do NOT collect:** your exact GPS coordinates (location), your contact list, your photos outside of what you upload, your phone number, your payment information (we do not process payments at this time), your browsing history in other apps.
 
 ### 3.3 Data We Do Not Collect
 
@@ -51,7 +52,6 @@ We collect only the information needed to run the app. We do not sell your data.
 - We do not access your camera or microphone
 - We do not read your SMS or call logs
 - We do not use advertising identifiers
-- We do not use third-party analytics trackers
 
 ## 4. How We Use Your Information
 
@@ -66,6 +66,9 @@ We use your data to:
 - Improve the app based on anonymised usage patterns
 - Respond to support requests and reports
 - Comply with legal obligations
+- Analytics and improvement
+- Crash reporting
+- Account deletion
 
 ## 5. How We Share Your Information
 
@@ -83,7 +86,7 @@ We share data only in these cases:
 
 **Business Transfers:** If we are involved in a merger, acquisition, or asset sale, your information may be transferred. We will provide notice before your personal information is transferred and becomes subject to a different Privacy Policy.
 
-We do not use any third-party advertising, analytics, or tracking SDKs.
+We do not use any third-party advertising, or tracking SDKs.
 
 ## 6. Where Your Data Is Stored
 
@@ -104,8 +107,7 @@ When you delete your account, all associated data is permanently deleted within 
 
 ## 8. Your Privacy Rights
 
-You have the right to:
-Depending on your location (e.g., under GDPR or CCPA), you may have the following rights:
+Depending on your location, you may have the following rights:
 - **Access** your data — contact us to receive a copy
 - **Correct** your data — edit your profile in the app at any time
 - **Delete** your data — see Section 9 below
@@ -126,7 +128,9 @@ You may delete your account at any time using either method:
 5. Confirm deletion
 
 ### On the web:
-Visit **[your-deletion-page-url]** and submit a deletion request. We will process it within 30 days.
+Visit **https://tally.so/r/BEaGDe** and submit a deletion request. We will process it within 30 days.
+The link uses the tally.so services that may collect and process data as described in their own privacy policies:
+iVentPad uses its tally.so account solely to process account deletion requests submitted via our web form. The data you submit (email, username) is processed on our behalf. [Tally.so Privacy Policy](https://tally.so/privacy)
 
 When your account is deleted:
 - Your profile, events, messages, and personal data are permanently removed
@@ -151,7 +155,9 @@ No method of transmission over the internet or method of electronic storage is 1
 If you discover a vulnerability, please report it to iventpad@gmail.com.
 
 ## 12. Third-Party Links and Services
-The app may contain links to third-party websites or services that are not owned or controlled by us (e.g., external event links or links in event details). We have no control over and assume no responsibility for the content or privacy practices of any third-party sites.
+*   **Firebase Analytics & Crashlytics (Google)**: Used to understand app usage, monitor crashes, and improve performance. Data collected may include app interactions, device information, and crash logs. [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+
+*   The app may contain links to third-party websites or services that are not owned or controlled by us (e.g., external event links or links in event details). We have no control over and assume no responsibility for the content or privacy practices of any other third-party sites.
 
 ## 13. Changes to This Policy
 
@@ -162,6 +168,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 For any privacy-related questions, requests, or complaints:
 
 **Email:** iventpad@gmail.com
+
 **Postal address:** Kampala, Uganda
 
 We aim to respond within 7 days.
