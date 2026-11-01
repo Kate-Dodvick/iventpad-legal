@@ -128,20 +128,21 @@ You may delete your account at any time using either method:
 5. Confirm deletion
 
 ### On the web:
-Visit **https://tally.so/r/BEaGDe** and submit a deletion request. We will process it within 30 days.
-The link uses the tally.so services that may collect and process data as described in their own privacy policies:
-iVentPad uses its tally.so account solely to process account deletion requests submitted via our web form. The data you submit (email, username) is processed on our behalf. [Tally.so Privacy Policy](https://tally.so/privacy)
+Go to [iVentPad Account Deletion Request](https://tally.so/r/BEaGDe) and submit a deletion request. We will process it within 30 days.
+The link uses the tally.so services that may collect and process data as described in their own privacy policies. [Tally.so Privacy Policy](https://tally.so/privacy)
+
+iVentPad uses its tally.so account solely to process account deletion requests submitted via our web form by collecting the data you submit (email, username).
 
 When your account is deleted:
 - Your profile, events, messages, and personal data are permanently removed
-- Your interactions with other users may remain visible to those users in anonymised form (e.g., "a deleted user").
+- Your interactions with other users may remain visible to those users in anonymised form (e.g., "deleted account").
 - Note that anonymized records of moderation actions (e.g., the fact that an event was rejected or a user was banned) may be retained for legal compliance and community safety audits, as outlined by app store policies.
 - Data may persist temporarily in backup storage for a short period before being permanently overwritten.
 - You will not be able to recover your account
 
 ## 10. Children's Privacy
 
-iVentPad is not intended for users under 13. We do not knowingly collect data from children. If we discover that a child has provided us with personal information, we will delete it. If you are a parent or guardian and believe your child has provided us with personal information, please contact us and we will delete it.
+iVentPad is not intended for users under 18. We do not knowingly collect data from children. If we discover that a child has provided us with personal information, we will delete it. If you are a parent or guardian and believe your child has provided us with personal information, please contact us and we will delete it.
 
 ## 11. Security
 
@@ -149,7 +150,7 @@ We use administrative, technical, and physical security measures to protect your
 - All data is encrypted in transit (HTTPS/TLS) using Secure Socket Layer (SSL) technology.
 - Passwords are hashed and salted by Supabase Auth
 - Access is restricted by Row Level Security (RLS) policies within our database, to ensure that users can only access data they are authorized to see.
-- Only authorised personnel (currently: the founder) can access the database
+- Only authorised personnel, currently: [the founder](https://www.linkedin.com/in/dodovickkats) can access the database
 
 No method of transmission over the internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 If you discover a vulnerability, please report it to iventpad@gmail.com.
@@ -157,11 +158,13 @@ If you discover a vulnerability, please report it to iventpad@gmail.com.
 ## 12. Third-Party Links and Services
 *   **Firebase Analytics & Crashlytics (Google)**: Used to understand app usage, monitor crashes, and improve performance. Data collected may include app interactions, device information, and crash logs. [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
 
-*   The app may contain links to third-party websites or services that are not owned or controlled by us (e.g., external event links or links in event details). We have no control over and assume no responsibility for the content or privacy practices of any other third-party sites.
+*   The app may contain links to third-party websites or services that are not owned or controlled by us (e.g., external event links or links in event details or links in user profile bio). We have no control over and assume no responsibility for the content or privacy practices of any other third-party sites.
 
 ## 13. Changes to This Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes. Continued use of the app after changes means you accept the new policy.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+
+You are advised to review this Privacy Policy periodically for any changes. Continued use of the app after changes means you accept the new policy.
 
 ## 14. Contact Us
 
