@@ -2,7 +2,7 @@
 
 **Effective Date: 01/11/2026**
 
-**Last updated: 11/11/2026**
+**Last Updated: 11/11/2026**
 
 ## 1. Acceptance
 
