@@ -2,7 +2,7 @@
 
 **Effective date: 01/11/2026**
 
-**Last updated: 01/11/2026**
+**Last updated: 11/11/2026**
 
 ## 1. Who We Are
 
@@ -110,14 +110,16 @@ When you delete your account, all associated data is permanently deleted within 
 Depending on your location, you may have the following rights:
 - **Access** your data — contact us to receive a copy
 - **Correct** your data — edit your profile in the app at any time
-- **Delete** your data — see Section 9 below
+- **Delete** your data — full account deletion or partial deletion, see Section 9 below
 - **Withdraw consent** — stop using the app at any time
 - **Complain** — contact your local data protection authority
 
 To exercise these rights outside of the in-app settings, please contact us at iventpad@gmail.com.
 
 ## 9. Account Deletion
+You can request deletion of your entire account, or of specific data only, at any time.
 
+### 9.1 Full account deletion
 You may delete your account at any time using either method:
 
 ### In the app:
@@ -131,8 +133,20 @@ You may delete your account at any time using either method:
 Go to [iVentPad Account Deletion Request](https://tally.so/r/BEaGDe) and submit a deletion request. We will process it within 30 days.
 The link uses the tally.so services that may collect and process data as described in their own privacy policies. [Tally.so Privacy Policy](https://tally.so/privacy)
 
+### 9.2 Partial data deletion
+
+You may request deletion of specific data without closing your account — for example, messages, events, profile photo, or friend connections.
+
+Some data cannot be partially deleted:
+- **Account credentials** — removable only via full account deletion (9.1)
+- **Moderation records** — warnings, bans, and rejected content are retained for community safety and legal compliance
+- **Anonymized audit records** — retained as described in 9.3
+
+To request partial deletion, submit a request at [iVentPad Partial Data Deletion Request](https://tally.so/r/bZ9Yqe) and specify which data you want removed. We will process it within 30 days.
+
 iVentPad uses its tally.so account solely to process account deletion requests submitted via our web form by collecting the data you submit (email, username).
 
+### 9.3 What happens after deletion
 When your account is deleted:
 - Your profile, events, messages, and personal data are permanently removed
 - Your interactions with other users may remain visible to those users in anonymised form (e.g., "deleted account").
