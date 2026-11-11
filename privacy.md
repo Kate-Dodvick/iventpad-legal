@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective date: 01/11/2026**
+**Effective Date: 01/11/2026**
 
-**Last updated: 11/11/2026**
+**Last Updated: 11/11/2026**
 
 ## 1. Who We Are
 
