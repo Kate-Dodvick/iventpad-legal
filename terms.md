@@ -1,10 +1,12 @@
 # Terms of Service
 
-**Last updated: 02/10/2026**
+**Effective Date: 01/11/2026**
+
+**Last updated: 11/11/2026**
 
 ## 1. Acceptance
 
-By creating an account or using iVentPad, you agree to these Terms. If you do not agree, do not use the app.
+By creating an account or using iVentPad, you agree to these Terms of Service. If you do not agree, do not use the app.
 
 ## 2. Who Can Use iVentPad
 
@@ -52,7 +54,9 @@ iVentPad is provided "as is." We are not responsible for:
 
 ## 8. Changes
 
-We may update these Terms. We will notify you in-app. Continued use means you accept the new Terms.
+We may update our Terms of Service from time to time. We will notify you of any changes by posting the new Terms of Service on this page and updating the "Last Updated" date.
+
+You are advised to review these Terms of Service periodically for any changes. Continued use of the app after changes means you accept the new Terms of Service.
 
 ## 9. Contact
 
