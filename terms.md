@@ -60,4 +60,4 @@ You are advised to review these Terms of Service periodically for any changes. C
 
 ## 9. Contact
 
-iventpad@gmail.com
+**Email:** iventpad@gmail.com
