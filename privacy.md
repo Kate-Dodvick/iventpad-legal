@@ -186,7 +186,7 @@ For any privacy-related questions, requests, or complaints:
 
 **Email:** iventpad@gmail.com
 
-**Postal address:** Kampala, Uganda
+**Postal address:** Kampala, Uganda.
 
 We aim to respond within 7 days.
 
